@@ -119,6 +119,8 @@ Git is a distributed version control system that has become the de facto standar
   
 </details><br>
 
+Don't forget to create a branch for each feature.<br>
+
 ### Create the about page
 <details>
   <summary>
@@ -160,6 +162,20 @@ Git is a distributed version control system that has become the de facto standar
 </body>
 
 </html>
+  ```
+  
+</details>
+
+<details>
+  <summary>
+    Div1 links the details.html with index.html in the navbar
+  </summary>
+  
+  ```html
+  [old]
+  <li><a href="#about">About</a></li>
+  [new]
+  <li><a href="about.html">About</a></li>
   ```
   
 </details>
