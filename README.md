@@ -108,7 +108,7 @@ Each change is a branch, and each branch requires a pull request to review.
 
 <details>
   <summary>
-    Div1 adds the following paragraph describing git as a version control system (read it)
+    Div1 creates a branch called "homepage-git-info" and adds the following paragraph describing git as a version control system (read it)
   </summary>
   
   ```html
