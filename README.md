@@ -6,7 +6,7 @@ Kickoff the work:
 1. `Dev1` forks this repository.
 2. `Dev1` invites `Dev2` to collaborate with them on the project (settings -> collaborators -> Add people).
 3. `Dev2` accepts the invitation found in their inbox.
-4. `Dev2` adds a protection on master branch “Require a pull request before merging.”
+4. `Dev1` adds a protection on master branch “Require a pull request before merging.”
 
 Each change is a branch, and each branch requires a pull request to review.  
 <br/>
@@ -260,4 +260,4 @@ Since Div1 is the one who created this file they will get the blame :P
 ### Deploy the website on GitHub pages
 - Div1 deploys the "index.html" by going to (settings -> pages) then choose master as deployment branch
 - Div2 verifies the url found in (settings -> pages) after a successful deployment.
-- Div2 unpublishes the site since they found some issues they need to fix. (settings -> pages -> burger icon -> unpublish)
+- Div1 unpublishes the site since they found some issues they need to fix. (settings -> pages -> burger icon -> unpublish)
